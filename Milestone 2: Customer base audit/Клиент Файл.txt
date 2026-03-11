@@ -1,0 +1,18 @@
+﻿Customer base audit
+
+
+"Audit of the company's customer base" Enterprise
+: TechMarket LLP (electronics sales)
+1. Customers
+2 Sales
+3 Audit
+4 Summary table and charts
+
+
+Formulas for determining indicators:
+1.The average customer's receipt is if the amount of purchases in F and the number of purchases in E) =F2/E2
+2.Total number of clients =COUNTA(B2:B26)
+3.Total sales =SUM(F2:F26)
+4.Average check on the database =AVERAGE(H2:H26)
+5.Maximum amount of customer sales =MAX(F2:F26)
+6.Minimum amount of customer sales =MIN(F2:F26)
