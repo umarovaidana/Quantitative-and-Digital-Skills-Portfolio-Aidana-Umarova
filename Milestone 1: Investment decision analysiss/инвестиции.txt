@@ -1,0 +1,13 @@
+﻿Stage 1 Analysis of investment decisions
+These formulas show how to make calculations.
+Total income =SUM(B3:B7)
+Average income =AVERAGE(B3:B7)
+NPV =NPV(10%,B3:B7)+B2
+NPV (Net Present Value) is the net present value of the project, that is, the sum of all future cash flows discounted to the current moment, minus the initial investment.
+Profitability Index =(NPV+1000000)/1000000
+Risk (standard deviation) = STDEV(B3:B7)
+The analysis of investment projects has shown that:
+-projects J and G are the most effective, as they have the highest net present value (NPV) and a profitability index above 1.3
+-these projects also have the shortest payback period.
+-Project C is the least efficient
+,therefore, Project J is the most preferable investment option.
